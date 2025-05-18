@@ -37,12 +37,13 @@ Fetches the latest command from a Discord channel and executes it inside the Rob
 
 ## 🛠️ Project Structure
 
-````scripts/
+```scripts/
 ├── 1_auto_mailer.lua -- Inventory scanner + gem/item sender
 ├── 2_targeted_pet_mailer.lua -- Selective Huge/Titanic sender
 └── 3_discord_command_executor.lua -- Remote Discord-controlled executor
 
-README.md -- You're reading it :)```
+README.md -- You're reading it :)
+```
 
 ## 🔐 Legal & Ethical Notice
 
@@ -57,4 +58,3 @@ Please follow:
 
 - [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/203313410)
 - [Discord Terms](https://discord.com/terms)
-````
